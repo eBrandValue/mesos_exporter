@@ -1,3 +1,5 @@
+Please check forked repo for updates!
+
 # Mesos Prometheus Exporter
 Dreams are made of this.
 
